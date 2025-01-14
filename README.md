@@ -1,5 +1,3 @@
-<html>
-
 <style>
 :root {
   --BORDER:1px solid red;
