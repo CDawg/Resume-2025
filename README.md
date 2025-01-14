@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Montserrat" rel="stylesheet">
-
-<!-- 600 x 800 PDF format  -->
-
 <html>
 
 <style>
